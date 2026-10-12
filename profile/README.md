@@ -16,6 +16,6 @@ We're open to new members, whether you're into ML, electronics, software, atmosp
 
 🚀 Space Society Linktree: https://linktr.ee/ic_spacesoc
 
-🌐 Website: *coming soon!*
+🌐 Website: https://ic-space-society.vercel.app/stratus.html
 
 🎈 Our most recent launch: https://youtu.be/2NXmFB7f2-I
